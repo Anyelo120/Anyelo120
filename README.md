@@ -16,8 +16,8 @@ Tengo experiencia en el manejo de servidores Ubuntu.
 - 1 año programando en JAVA.
 - Lenguajes que manejo: PHP, JavaScript, Java y Python.
 - Inglés Nivel Básico.
-- 2 años con experiencia con el trato de clientes.
-- Edición de video
+- 2 años de experiencia con el trato de clientes.
+- 3 años de edición de video
 - Manejo de redes sociales (MARKETING)
 - Creación de campañas publicitarias
 - Creación de plugins para MC
@@ -44,8 +44,8 @@ I have experience in managing Ubuntu servers.
 - 1 year programming in JAVA.
 - Languages I manage: PHP, JavaScript, Java and Python.
 - Basic English level.
-- 2 years with experience in dealing with customers.
-- Video editing.
+- 2 years of experience in dealing with clients.
+- 3 years of video editing
 - Management of social networks (MARKETING)
 - Creation of advertising campaigns
 - Creation of plugins for MC
