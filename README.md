@@ -35,7 +35,6 @@ I have experience in creating servers for games, I have occupied dedicated serve
 👋 I currently have two small businesses which are:
 
 - ProLatin Studio: I am a teacher for people who want to enter the world of server creation, I also sell servers and make servers on demand, I currently have a channel with 5000 followers in this project and a discord with 500 people.
-- YuCraft Network: is currently my MC Network that is in process, it is very new this project and we are working on it, currently we have a discord that has a total of 1900 people.
 
 📫 Current experience:
 
@@ -53,3 +52,4 @@ I have experience in managing Ubuntu servers.
 ✨ Previous projects done: 
 - Minecraft Server: ProLatin Network (Creator, configurator and developer) 
 - Minecraft Server: Gatitos World (Configurator and programmer)
+- Server de Minecrft: YuCraft Network (Configurator and programmer)
