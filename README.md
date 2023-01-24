@@ -6,7 +6,7 @@ Tengo experiencia en la creación de servidores para juegos, he ocupado servidor
 
 👋 Actualmente tengo dos negocios pequeños los cuales son:
 
-- ProLatin Studio: Soy profesor para la gente que quiere entrar al mundo de la creación de servidores, también vendo servidores y hago servidores ha pedido, actualmente tengo un canal con 5000 seguidores en este proyecto y un discord con 500 personas.
+- RottenBone Studio: Soy profesor para la gente que quiere entrar al mundo de la creación de servidores, también vendo servidores y hago servidores ha pedido, actualmente tengo un canal con 5000 seguidores en este proyecto y un discord con 500 personas.
 
 📫 Experiencia actual:
 
@@ -34,7 +34,7 @@ I have experience in creating servers for games, I have occupied dedicated serve
 
 👋 I currently have two small businesses which are:
 
-- ProLatin Studio: I am a teacher for people who want to enter the world of server creation, I also sell servers and make servers on demand, I currently have a channel with 5000 followers in this project and a discord with 500 people.
+- RottenBone Studio: I am a teacher for people who want to enter the world of server creation, I also sell servers and make servers on demand, I currently have a channel with 5000 followers in this project and a discord with 500 people.
 
 📫 Current experience:
 
