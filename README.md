@@ -1,6 +1,6 @@
 SPANISH
 
-Hola, mi nombre de usuario es: Anyelo120 Tengo 18 años.
+Hola, mi nombre de usuario es: Anyelo120 Tengo 19 años.
 Soy estudiante de primer año en Ingeniería en Informática Multimedia.
 Tengo experiencia en la creación de servidores para juegos, he ocupado servidores dedicados y VPS, me manejo bien en el sistema operativo Ubuntu 22.04
 
@@ -28,7 +28,7 @@ Tengo experiencia en el manejo de servidores Ubuntu.
 
 ENGLISH
 
-Hello, my username is: Anyelo120 I am 18 years old.
+Hello, my username is: Anyelo120 I am 19 years old.
 I am a first year student in Multimedia Computer Engineering.
 I have experience in creating servers for games, I have occupied dedicated servers and VPS, I manage well in Ubuntu 22.04 operating system.
 
