@@ -1,45 +1,79 @@
 Español:
+Ángel Orellana
+Perfil Profesional
+Estudiante de tercer año de Ingeniería en Informática Multimedia, con destacada experiencia en desarrollo y gestión de servidores para juegos, programación y atención al cliente. Habilidades técnicas avanzadas en sistemas operativos como Ubuntu 22.04, y en lenguajes de programación como Java, PHP, JavaScript y Python.
 
-Hola, soy Anhielo#8254 y tengo 19 años. Actualmente, estoy cursando el primer año de Ingeniería en Informática Multimedia.
+Experiencia Profesional:
 
-Poseo amplia experiencia en la creación y manejo de servidores para juegos, incluyendo servidores dedicados y VPS, especialmente con el sistema operativo Ubuntu 22.04.
+Técnico en Telecomunicación, VTR y CLARO (6 meses):
+Gestión y soporte de infraestructura de telecomunicaciones interna.
 
-Experiencia laboral:
-- 5 años de experiencia trabajando con VPS y Servidores Dedicados.
-- 2 años de experiencia programando en JAVA y desarrollando aplicaciones.
-- Manejo de lenguajes de programación tales como: PHP, JavaScript, Java y Python.
-- Creación de bots de automatización de atención al cliente en Python.
-- Nivel básico de inglés.
-- 2 años de experiencia en atención al cliente.
-- 3 años de experiencia en edición de video.
-- Manejo de marketing en redes sociales.
-- Creación de campañas publicitarias.
-- Creación de plugins para Minecraft.
+Especialista en Servidores y Desarrollo (Autónomo, 6 años):
+Configuración y manejo de servidores dedicados y VPS.
+Desarrollo de aplicaciones en Java y creación de bots de automatización en Python.
+Diseño y ejecución de campañas de marketing digital y gestión de redes sociales.
+Edición de video y creación de contenidos multimedia.
 
-Proyectos realizados:
-- Minecraft Server: ProLatin Network (Creador, configurador y programador).
-- Minecraft Server: Gatitos World (Configurador y programador).
-- Minecraft Server: YuCraft Network (Configurador y programador).
+Proyectos Destacados:
+- Minecraft Server: ProLatin Network
+Rol: Creador, Configurador, Programador.
+- Minecraft Server: Gatitos World
+Rol: Configurador, Programador.
+- Minecraft Server: YuCraft Network
+Rol: Configurador, Programador.
+- Minecraft Server: SuperNova Network (Proyecto Actual)
+Rol: Creador, Configurador, Programador.
+
+Educación:
+Ingeniería en Informática Multimedia
+Universidad UNIACC, 2021 – Presente
+
+Idiomas
+Español (Nativo)
+Inglés (Nivel Básico)
+
+Habilidades Técnicas
+Programación: Java, PHP, JavaScript, Python.
+Gestión de Servidores: Ubuntu, VPS, Servidores Dedicados.
+Edición de Video y Multimedia.
+Marketing Digital y Gestión de Redes Sociales.
 
 English:
+Ángel Orellana
+Professional Profile
+Third-year student of Multimedia Computer Engineering with extensive experience in game server development and management, programming, and customer service. Advanced technical skills in operating systems like Ubuntu 22.04, and programming languages such as Java, PHP, JavaScript, and Python.
 
-Hello, I'm Anhielo#8254 and I'm 19 years old. I am currently a first-year student in Multimedia Computer Engineering.
+Professional Experience:
 
-I have extensive experience in creating and managing servers for games, including dedicated servers and VPS, particularly with the Ubuntu 22.04 operating system.
+Telecommunications Technician, VTR and CLARO (6 months):
+Management and support of internal telecommunications infrastructure.
 
-Work experience:
-- 5 years of experience working with VPS and Dedicated Servers.
-- 2 years of experience programming in JAVA and developing applications.
-- Proficient in programming languages such as: PHP, JavaScript, Java, and Python.
-- Creation of customer service automation bots in Python.
-- Basic level of English.
-- 2 years of experience in customer service.
-- 3 years of experience in video editing.
-- Proficient in social media marketing.
-- Creation of advertising campaigns.
-- Creation of plugins for Minecraft.
+Server and Development Specialist (Freelance, 6 years):
+Configuration and management of dedicated servers and VPS.
+Application development in Java and automation bots creation in Python.
+Design and execution of digital marketing campaigns and social media management.
+Video editing and multimedia content creation.
 
-Completed projects:
-Minecraft Server: ProLatin Network (Creator, configurator, and programmer).
-Minecraft Server: Gatitos World (Configurator and programmer).
-Minecraft Server: YuCraft Network (Configurator and programmer).
+Highlighted Projects
+- Minecraft Server: ProLatin Network
+Role: Creator, Configurator, Programmer.
+- Minecraft Server: Gatitos World
+Role: Configurator, Programmer.
+- Minecraft Server: YuCraft Network
+Role: Configurator, Programmer.
+- Minecraft Server: SuperNova Network (Current Project)
+Role: Creator, Configurator, Programmer.
+
+Education:
+Bachelor in Multimedia Computer Engineering
+UNIACC, 2021 – Present
+
+Languages:
+Spanish (Native)
+English (Basic Level)
+
+Technical Skills:
+Programming: Java, PHP, JavaScript, Python.
+Server Management: Ubuntu, VPS, Dedicated Servers.
+Video Editing and Multimedia.
+Digital Marketing and Social Media Management.
