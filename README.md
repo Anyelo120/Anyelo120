@@ -21,7 +21,7 @@ Rol: Creador, Configurador, Programador.
 Rol: Configurador, Programador.
 - Minecraft Server: YuCraft Network
 Rol: Configurador, Programador.
-- Minecraft Server: SuperNova Network (Proyecto Actual)
+- Minecraft Server: SuperNova Network
 Rol: Creador, Configurador, Programador.
 
 Educación:
@@ -61,7 +61,7 @@ Role: Creator, Configurator, Programmer.
 Role: Configurator, Programmer.
 - Minecraft Server: YuCraft Network
 Role: Configurator, Programmer.
-- Minecraft Server: SuperNova Network (Current Project)
+- Minecraft Server: SuperNova Network
 Role: Creator, Configurator, Programmer.
 
 Education:
