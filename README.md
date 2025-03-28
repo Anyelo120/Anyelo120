@@ -71,5 +71,5 @@
 ------------------------------------------------------------  
 💌 Email: rottenbone.studio120@gmail.com  
 🔗 Discord: Anyelo120  
-📂 Portfolio: CREACIÓN  
+📂 Portfolio: LOADING...  
 ------------------------------------------------------------  
