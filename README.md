@@ -11,8 +11,7 @@
 🔹 Passionate about game server development, scripting & digital marketing  
 
 
-🛠️ Tech Stack  
-------------------------------------------------------------  
+🛠️ Tech Stack    
 💻 Programming Languages
 ------------------------------------------------------------  
 ——— Java  
@@ -48,7 +47,6 @@
 ———— Video Editing & Multimedia Content Creation  
 
 🎮 Featured Projects  
-------------------------------------------------------------  
 🛠️ Minecraft Servers  
 ------------------------------------------------------------  
 ————— ProLatin Network → Creator, Configurator, Programmer  
