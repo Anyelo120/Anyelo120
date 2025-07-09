@@ -1,8 +1,6 @@
 # 🌟 Ángel Orellana – Programmer Portfolio
 
 [![GitHub followers](https://img.shields.io/github/followers/Anyelo120?style=social)](https://github.com/Anyelo120)
-[![Top Language](https://img.shields.io/github/languages/top/Anyelo120?color=yellow&style=flat-square)](https://github.com/Anyelo120)
-[![Repo Size](https://img.shields.io/github/repo-size/Anyelo120?style=flat-square)](https://github.com/Anyelo120)
 
 ---
 
