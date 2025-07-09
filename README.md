@@ -93,7 +93,7 @@ Multimedia Computer Engineering
 
 - 📧 Email: rottenbone.studio120@gmail.com  
 - 🔗 Discord: Anyelo120  
-- 📚 GitHub: [@angelorellana](https://github.com/Anyelo120)  
+- 📚 GitHub: [@Anyelo120](https://github.com/Anyelo120)  
 - 🌐 Portfolio Website: *Coming Soon*
 
 ---
